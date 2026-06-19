@@ -50,11 +50,11 @@
 🤝 欢迎交流开源、AI 工作流与各种实用小工具
 <!-- 外层 div：控制整体的上下间距 -->
 <div style="margin: 10px 0">
-  <!-- 第一个链接：GitHub 主页 -->
-  <a href="https://github.com/Givenwels">
+  <!-- 第一个链接：邮箱 -->
+  <a href="mailto:dingmengke666@qq.com">
     <img
-      src="https://img.shields.io/badge/GitHub-Givenwels-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
+      src="https://img.shields.io/badge/dingmengke666%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
     >
   </a>
   <!-- 第二个链接：个人网站 -->
