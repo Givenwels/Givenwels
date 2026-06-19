@@ -58,7 +58,7 @@
     >
   </a>
   <!-- 第二个链接：个人网站 -->
-  <a href="https://givenwels.github.io/website/">
+  <a href="http://morgantoken.fun/">
     <img
       src="https://img.shields.io/badge/Personal_Website-Visit-FF69B4?style=for-the-badge&logo=safari&logoColor=white"
       alt="Personal Website"
