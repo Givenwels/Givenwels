@@ -1,7 +1,7 @@
 # 🌸Hi ~ I'm mengke_D
 
 <!-- 右侧像素小人 -->
-<img align="right" src="https://count.getloli.com/get/@Givenwels?theme=moebooru&scale=1.1" alt="Givenwels" width="400"/>
+<img align="right" src="https://count.getloli.com/get/@Givenwels?theme=moebooru&scale=1.1&padding=4&prefix=325" alt="Givenwels" width="400"/>
 
 
 
