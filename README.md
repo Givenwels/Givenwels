@@ -43,7 +43,7 @@
 ## ABOUT ME
 🧑‍💻 AI 工具与效率产品探索者
 
-🧩 正在构建 Chrome 扩展、Claude Skills 和有趣的 Web 项目
+🧩 正在探索 AI 模型评测、Vibecoding 与实用产品开发
 
 ✨ 喜欢把重复工作变成自动化，把灵感变成真正能用的产品
 
